@@ -8212,6 +8212,7 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .hero-wrap .bread {
     font-size: 3rem; /* Adjust size */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* Change font family */
     color: #ffffff; /* Change color */
     font-weight: 700; /* Optional: make bold */
     letter-spacing: 2px; /* Optional: spacing between letters */
